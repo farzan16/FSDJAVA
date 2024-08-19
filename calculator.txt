@@ -1,1 +1,6 @@
 hello
+
+we have learnt few GitHub commands
+1) git init
+2) git add filename
+
